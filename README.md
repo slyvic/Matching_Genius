@@ -2,9 +2,6 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;Contributors names
 
-✔ ***Saif Farooqui***<br>
-✔ ***Kashyap Shirodkar***<br>
-
 <img src="public/assets/SoulMate (3).png" alt="logo" width="300" />
 
 # ソウルメイトが見つかるのに、なぜ日付を探す必要があるのでしょうか?
